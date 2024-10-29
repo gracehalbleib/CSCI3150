@@ -1,0 +1,29 @@
+h1, h2 {
+    color: red;
+  }
+  
+  p {
+    color: brown;
+  }
+      
+  ul {
+    border: 2px solid pink;
+  }
+  
+  ol {
+    border: 2px solid pink;
+  }
+  
+  ol, ul {
+    padding: 15px 40px;
+    border-radius: 30px;
+  }
+  
+  h1, strong {
+    color: red;
+  }
+  
+  em {
+    color: tan;
+  }
+      
